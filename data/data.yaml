@@ -1,0 +1,8 @@
+path: ../datasets/aidi
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: Flaking
+  1: hump
